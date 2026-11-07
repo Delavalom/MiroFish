@@ -1,0 +1,38 @@
+# mise configuration for MiroFish
+# Docs: https://mise.jdx.dev
+#
+# Tools are pinned so everyone gets the same runtimes.
+# Note: backend requires Python >=3.11,<3.13 (system Python 3.14 is NOT compatible).
+
+[tools]
+node = "latest"
+python = "3.12"
+uv = "latest"    # Python package manager
+
+[tasks.setup]
+description = "One-shot install: bootstrap .env + all deps (root + frontend + backend)"
+run = [
+  "test -f .env || cp .env.example .env",
+  "npm install",
+  "npm --prefix frontend install",
+  "uv sync --project backend",
+]
+
+[tasks.dev]
+description = "Start backend (:5001) + frontend (:3000) together"
+run = "npm run dev"
+
+[tasks.backend]
+description = "Start backend only (:5001)"
+dir = "backend"
+run = "uv run python run.py"
+
+[tasks.frontend]
+description = "Start frontend only (:3000)"
+dir = "frontend"
+run = "npm run dev"
+
+[tasks.build]
+description = "Build frontend for production"
+dir = "frontend"
+run = "npm run build"
