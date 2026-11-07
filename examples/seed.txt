@@ -1,0 +1,25 @@
+NovaTalk Announces 30% Price Increase Amid User Backlash
+
+June 1, 2026 — NovaTalk, the popular messaging and productivity app with over 12 million active users, announced today that it will raise the price of its Pro subscription from $10 to $13 per month, a 30% increase effective July 1. The company says the change is needed to fund new AI features and offset rising infrastructure costs.
+
+In a blog post, CEO Marta Reyes wrote: "We know any price change is hard. But to keep building the fastest, most private messaging experience on the market, we need to invest in our team and our servers. The new AI assistant, smart search, and unlimited file storage will only be available on Pro."
+
+The reaction online was immediate and polarized. Within hours, the hashtag #NovaTalkRipoff began trending. Many long-time users complained that the new AI features were not ones they asked for, and that core messaging — what they actually pay for — was being held hostage to subsidize add-ons.
+
+"I've paid for Pro for four years. I don't want an AI assistant. I want my chats to keep working and stay private," wrote one user with a large following. Others defended the company, pointing out that NovaTalk's price had not changed since 2021 and that competitors charge $15 to $20 for similar plans.
+
+Small business owners expressed particular concern. Many run customer support and team coordination through NovaTalk and say a 30% jump across dozens of seats is a meaningful budget hit. Several threatened to migrate to cheaper alternatives such as ChatLoop and Beacon.
+
+Privacy advocates raised a separate worry: that the new AI assistant might process message content on NovaTalk's servers, undermining the end-to-end encryption the brand was built on. NovaTalk has not yet clarified how the AI features handle user data.
+
+Industry analysts were mixed. "Thirty percent in one step is aggressive," said one analyst. "A phased increase, or grandfathering existing users at the old price, would have softened the blow. The bigger risk isn't the price — it's the perception that NovaTalk is drifting from its privacy-first roots."
+
+As of this evening, NovaTalk had not issued a follow-up statement. Customer support channels reported a surge in cancellation inquiries, and the company's official account had disabled replies on its announcement post.
+
+Key stakeholders in this story:
+- Existing Pro subscribers (loyal long-term users, price-sensitive)
+- Small business / team accounts (multi-seat, budget-conscious)
+- Free-tier users (potential upgraders, watching from the sidelines)
+- Privacy advocates (concerned about AI and encryption)
+- Competitors (ChatLoop, Beacon — positioned to poach users)
+- NovaTalk leadership (CEO Marta Reyes, communications team)

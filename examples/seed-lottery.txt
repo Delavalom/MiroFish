@@ -1,0 +1,139 @@
+DOMINICAN LOTTERY — STATISTICAL SEED DOSSIER
+Sources: loteriasdominicanas.com, conectate.com.do, loteriadominicanahoy.com
+Compiled: June 1, 2026
+
+=====================================================================
+IMPORTANT FRAMING (read first)
+=====================================================================
+Lottery draws are independent random events. Every number from 00 to 99
+has exactly the same probability on every single draw (1 in 100 for a
+straight quiniela position). Past frequency does NOT change future odds.
+"Hot" and "cold" numbers are descriptions of the past, not predictions of
+the future. This dossier is for entertainment and pattern-exploration
+only. Treat any "predicted" number as a guess with no real edge.
+
+=====================================================================
+GAME FOCUS: QUINIELA (the most popular Dominican format)
+=====================================================================
+Each draw produces THREE two-digit numbers (00-99), in positions:
+  - 1st (Primera)
+  - 2nd (Segunda)
+  - 3rd (Tercera)
+Two main operators: LEIDSA and Lotería NACIONAL.
+
+=====================================================================
+LEIDSA — QUINIELA: LAST 29 DRAWS (May 2026)
+Format per row: DATE = [1st] [2nd] [3rd]
+=====================================================================
+31-05 = 52 92 70
+30-05 = 89 29 42
+29-05 = 39 25 02
+28-05 = 44 56 97
+27-05 = 53 51 01
+26-05 = 08 88 66
+25-05 = 68 01 20
+24-05 = 66 88 35
+23-05 = 90 32 42
+22-05 = 44 81 46
+21-05 = 69 88 43
+20-05 = 10 38 05
+19-05 = 36 34 73
+18-05 = 01 98 04
+17-05 = 97 18 60
+16-05 = 41 57 97
+15-05 = 85 00 96
+14-05 = 75 40 64
+13-05 = 98 14 48
+12-05 = 78 52 73
+11-05 = 65 39 11
+10-05 = 41 59 36
+09-05 = 63 29 08
+08-05 = 72 33 72
+07-05 = 68 05 82
+06-05 = 35 09 71
+05-05 = 60 82 71
+04-05 = 62 35 74
+03-05 = 40 32 02
+
+LEIDSA — MOST FREQUENT NUMBERS (last 30 days):
+  97 (3x), 01 (3x), 88 (3x), 35 (3x),
+  52 (2x), 29 (2x), 42 (2x), 39 (2x), 02 (2x), 44 (2x)
+
+=====================================================================
+LOTERÍA NACIONAL — QUINIELA: FREQUENCY (last 90 days)
+=====================================================================
+HOTTEST (most frequent):
+  84 — 7 times (5 of them in 1st position)
+  54 — 6 times
+  17 — 6 times
+  43 — 5 times
+  78 — 5 times
+  27 — 5 times
+  21 — 5 times
+  61 — 5 times
+  82 — 5 times
+  96 — 5 times
+
+COLDEST (longest without appearing):
+  62 — last seen Nov 8, 2025
+  93 — last seen Mar 6, 2026
+
+=====================================================================
+CROSS-OPERATOR OBSERVATIONS (descriptive only)
+=====================================================================
+- Numbers appearing hot in BOTH recent windows or near each other:
+  82 (Leidsa 2x recent, Nacional hot 5x), 35 (Leidsa hot), 27 (Nacional hot).
+- Recurring digits in recent Leidsa draws: lots of 0x and 4x family numbers
+  (01, 02, 04, 05, 08, 09; 40, 41, 42, 44, 46, 48).
+- Repeated number within a single draw happened once: 08-05 = 72 33 72.
+
+=====================================================================
+JACKPOT GAMES — BALL-DRAW STATISTICS
+=====================================================================
+
+--- LEIDSA LOTO POOL (pick from balls 01–31) ---
+Most frequent (last 45 days):
+  24 (12x), 05 (12x), 14 (11x), 25 (11x), 30 (10x)
+Least frequent (in top tier): 03 (8x)
+Gap notes: 05 last drawn May 31, 2026; 08 longest gap (since May 13, 2026).
+
+--- LEIDSA LOTO MÁS (pick 6 from balls 01–40, + "Más" ball 01–12) ---
+Drawn Wednesdays & Saturdays, 8:55 PM. Most frequent (last 60 days):
+  02 (10x), 10 (8x),
+  32 / 29 / 30 / 15 / 14 (7x each),
+  21 / 22 / 13 (6x each)
+Per-number last-draw dates span Mar 11 – May 30, 2026.
+
+--- LEIDSA SUPER KINO TV (20 numbers drawn from balls 01–80) ---
+Most frequent (last 30 days):
+  63 (15x), 23 (12x),
+  65 / 07 / 39 (11x each),
+  42 / 52 / 46 / 04 (10x each)
+
+=====================================================================
+OTHER DOMINICAN GAMES (context, single recent snapshot)
+=====================================================================
+Nacional - Gana Más: 70 98 41
+Nacional - Juega+Pega+: 19 13 26 07 02
+Leidsa - Pega 3 Más: 16 04 13
+Leidsa - Loto Pool: 05 07 19 22 27
+Real - Quiniela Real: 30 20 16
+Loteka - Quiniela Loteka: 02 50 31
+La Primera - Día: 98 70 56
+
+=====================================================================
+SIMULATION GOAL FOR THE AGENTS
+=====================================================================
+Using the historical patterns above, have the agent population reason
+about and propose candidates for the next draws of:
+  1. QUINIELA (Leidsa & Nacional) — three numbers 00–99
+  2. LOTO POOL — a set from balls 01–31
+  3. LOTO MÁS — six numbers from 01–40 plus a Más ball 01–12
+  4. SUPER KINO TV — a spread from balls 01–80
+
+Agents should debate hot-number momentum, cold-number "due" theories,
+positional tendencies (e.g. quiniela 84 favoring 1st position),
+digit-family clustering, and balanced vs. clustered ball spreads — then
+converge on a small set of candidate predictions per game WITH explicit
+confidence levels and the honest caveat that true odds are uniform and
+no strategy improves the real probability of winning.
